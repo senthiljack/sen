@@ -1,3 +1,6 @@
+
+package src.main.com.mycompany.app
+
 public class A
 {
 	public static void main(String args[])
