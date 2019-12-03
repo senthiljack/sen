@@ -1,5 +1,5 @@
 
-package src.main.java.com.mycompany.app
+package src.main.java.com.mycompany.app;
 
 public class A
 {
