@@ -1,2 +1,2 @@
 from nginx
-cp $WORKSPACE/taget/*.war /var/www/html/
+#copy $WORKSPACE/taget/*.war /var/www/html/
