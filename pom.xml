@@ -72,5 +72,16 @@
             </plugin>
         </plugins>
     </build>
-
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>a0mhg7ep0qmpp-artifactory-primary-0-releases</name>
+        <url>https://senthil.jfrog.io/artifactory/senthil-local-libs-release</url>
+    </repository>
+    <snapshotRepository>
+		<id>central</id>
+		<name>a0mhg7ep0qmpp-artifactory-primary-0-snapshot</name>
+        <url>https://senthil.jfrog.io/artifactory/senthil-local-libs-snapshot</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>
