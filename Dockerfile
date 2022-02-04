@@ -1,3 +1,3 @@
 from nginx
-copy taget/*.war /var/www/html/
+copy target/*.war /var/www/html/
 
